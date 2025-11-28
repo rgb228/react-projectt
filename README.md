@@ -237,6 +237,12 @@ function App() {
   );
 }
 ```
+опрос
+<img width="1065" height="898" alt="image" src="https://github.com/user-attachments/assets/65bb03ab-ee3d-43b1-87fa-37388e9c0635" />
+<img width="1102" height="913" alt="image" src="https://github.com/user-attachments/assets/7f5fc223-943c-4059-b333-25bfd175bec6" />
+<img width="991" height="405" alt="image" src="https://github.com/user-attachments/assets/b5407c61-7849-4e74-9e91-a4bc46c814a8" />
+
+
 
 ## 🚀 Развертывание
 
